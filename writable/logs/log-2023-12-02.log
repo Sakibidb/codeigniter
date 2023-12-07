@@ -1,0 +1,395 @@
+CRITICAL - 2023-12-02 04:18:56 --> Use of undefined constant includes - assumed 'includes' (this will throw an Error in a future version of PHP)
+in APPPATH\Views\dashboard.php on line 379.
+ 1 APPPATH\Views\dashboard.php(379): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Use of undefined constant includes - assumed \'includes\' (this will throw an Error in a future version of PHP)', 'D:\\php\\htdocs\\wdpf55_codeigniter\\ci1\\app\\Views\\dashboard.php', 379, [])
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\php\\htdocs\\wdpf55_codeigniter\\ci1\\app\\Views\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('dashboard', [], true)
+ 5 APPPATH\Controllers\AdminHome.php(11): view('dashboard')
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\AdminHome->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminHome))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\php\\htdocs\\wdpf55_codeigniter\\ci1\\public\\index.php')
+CRITICAL - 2023-12-02 06:07:19 --> Object of class App\Controllers\Products could not be converted to string
+in APPPATH\Controllers\Products.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Products->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\php\\htdocs\\wdpf55_codeigniter\\ci1\\public\\index.php')
+CRITICAL - 2023-12-02 06:07:21 --> Object of class App\Controllers\Products could not be converted to string
+in APPPATH\Controllers\Products.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Products->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\php\\htdocs\\wdpf55_codeigniter\\ci1\\public\\index.php')
+CRITICAL - 2023-12-02 06:07:38 --> Object of class App\Controllers\Products could not be converted to string
+in APPPATH\Controllers\Products.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Products->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\php\\htdocs\\wdpf55_codeigniter\\ci1\\public\\index.php')
+CRITICAL - 2023-12-02 06:07:39 --> Object of class App\Controllers\Products could not be converted to string
+in APPPATH\Controllers\Products.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Products->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\php\\htdocs\\wdpf55_codeigniter\\ci1\\public\\index.php')
+CRITICAL - 2023-12-02 06:07:39 --> Object of class App\Controllers\Products could not be converted to string
+in APPPATH\Controllers\Products.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Products->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\php\\htdocs\\wdpf55_codeigniter\\ci1\\public\\index.php')
+CRITICAL - 2023-12-02 06:07:40 --> Object of class App\Controllers\Products could not be converted to string
+in APPPATH\Controllers\Products.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Products->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\php\\htdocs\\wdpf55_codeigniter\\ci1\\public\\index.php')
+CRITICAL - 2023-12-02 06:07:40 --> Object of class App\Controllers\Products could not be converted to string
+in APPPATH\Controllers\Products.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Products->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\php\\htdocs\\wdpf55_codeigniter\\ci1\\public\\index.php')
+CRITICAL - 2023-12-02 06:07:41 --> Object of class App\Controllers\Products could not be converted to string
+in APPPATH\Controllers\Products.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Products->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\php\\htdocs\\wdpf55_codeigniter\\ci1\\public\\index.php')
+CRITICAL - 2023-12-02 06:07:47 --> Object of class App\Controllers\Products could not be converted to string
+in APPPATH\Controllers\Products.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Products->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\php\\htdocs\\wdpf55_codeigniter\\ci1\\public\\index.php')
+CRITICAL - 2023-12-02 06:11:35 --> Object of class App\Controllers\Products could not be converted to string
+in APPPATH\Controllers\Products.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Products->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\php\\htdocs\\wdpf55_codeigniter\\ci1\\public\\index.php')
+CRITICAL - 2023-12-02 06:11:36 --> Object of class App\Controllers\Products could not be converted to string
+in APPPATH\Controllers\Products.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Products->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\php\\htdocs\\wdpf55_codeigniter\\ci1\\public\\index.php')
+CRITICAL - 2023-12-02 06:11:36 --> Object of class App\Controllers\Products could not be converted to string
+in APPPATH\Controllers\Products.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Products->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\php\\htdocs\\wdpf55_codeigniter\\ci1\\public\\index.php')
+CRITICAL - 2023-12-02 06:11:36 --> Object of class App\Controllers\Products could not be converted to string
+in APPPATH\Controllers\Products.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Products->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\php\\htdocs\\wdpf55_codeigniter\\ci1\\public\\index.php')
+CRITICAL - 2023-12-02 06:11:36 --> Object of class App\Controllers\Products could not be converted to string
+in APPPATH\Controllers\Products.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Products->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\php\\htdocs\\wdpf55_codeigniter\\ci1\\public\\index.php')
+CRITICAL - 2023-12-02 06:11:36 --> Object of class App\Controllers\Products could not be converted to string
+in APPPATH\Controllers\Products.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Products->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\php\\htdocs\\wdpf55_codeigniter\\ci1\\public\\index.php')
+CRITICAL - 2023-12-02 06:11:37 --> Object of class App\Controllers\Products could not be converted to string
+in APPPATH\Controllers\Products.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Products->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\php\\htdocs\\wdpf55_codeigniter\\ci1\\public\\index.php')
+CRITICAL - 2023-12-02 06:11:39 --> Object of class App\Controllers\Products could not be converted to string
+in APPPATH\Controllers\Products.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Products->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\php\\htdocs\\wdpf55_codeigniter\\ci1\\public\\index.php')
+CRITICAL - 2023-12-02 06:13:13 --> Object of class App\Controllers\Products could not be converted to string
+in APPPATH\Controllers\Products.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Products->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\php\\htdocs\\wdpf55_codeigniter\\ci1\\public\\index.php')
+CRITICAL - 2023-12-02 06:13:13 --> Object of class App\Controllers\Products could not be converted to string
+in APPPATH\Controllers\Products.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Products->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\php\\htdocs\\wdpf55_codeigniter\\ci1\\public\\index.php')
+CRITICAL - 2023-12-02 06:13:14 --> Object of class App\Controllers\Products could not be converted to string
+in APPPATH\Controllers\Products.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Products->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\php\\htdocs\\wdpf55_codeigniter\\ci1\\public\\index.php')
+CRITICAL - 2023-12-02 06:13:14 --> Object of class App\Controllers\Products could not be converted to string
+in APPPATH\Controllers\Products.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Products->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\php\\htdocs\\wdpf55_codeigniter\\ci1\\public\\index.php')
+CRITICAL - 2023-12-02 06:13:14 --> Object of class App\Controllers\Products could not be converted to string
+in APPPATH\Controllers\Products.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Products->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\php\\htdocs\\wdpf55_codeigniter\\ci1\\public\\index.php')
+CRITICAL - 2023-12-02 06:13:14 --> Object of class App\Controllers\Products could not be converted to string
+in APPPATH\Controllers\Products.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Products->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\php\\htdocs\\wdpf55_codeigniter\\ci1\\public\\index.php')
+CRITICAL - 2023-12-02 06:13:16 --> Object of class App\Controllers\Products could not be converted to string
+in APPPATH\Controllers\Products.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Products->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\php\\htdocs\\wdpf55_codeigniter\\ci1\\public\\index.php')
+CRITICAL - 2023-12-02 06:13:16 --> Object of class App\Controllers\Products could not be converted to string
+in APPPATH\Controllers\Products.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Products->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\php\\htdocs\\wdpf55_codeigniter\\ci1\\public\\index.php')
+CRITICAL - 2023-12-02 06:13:16 --> Object of class App\Controllers\Products could not be converted to string
+in APPPATH\Controllers\Products.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Products->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\php\\htdocs\\wdpf55_codeigniter\\ci1\\public\\index.php')
+CRITICAL - 2023-12-02 06:13:51 --> Object of class App\Controllers\Products could not be converted to string
+in APPPATH\Controllers\Products.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Products->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\php\\htdocs\\wdpf55_codeigniter\\ci1\\public\\index.php')
+CRITICAL - 2023-12-02 06:13:59 --> Object of class App\Controllers\Products could not be converted to string
+in APPPATH\Controllers\Products.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Products->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\php\\htdocs\\wdpf55_codeigniter\\ci1\\public\\index.php')
+CRITICAL - 2023-12-02 06:14:05 --> Object of class App\Controllers\Products could not be converted to string
+in APPPATH\Controllers\Products.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Products->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\php\\htdocs\\wdpf55_codeigniter\\ci1\\public\\index.php')
+CRITICAL - 2023-12-02 06:16:14 --> Object of class App\Controllers\Products could not be converted to string
+in APPPATH\Controllers\Products.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Products->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\php\\htdocs\\wdpf55_codeigniter\\ci1\\public\\index.php')
+CRITICAL - 2023-12-02 06:17:55 --> Object of class App\Controllers\Products could not be converted to string
+in APPPATH\Controllers\Products.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Products->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\php\\htdocs\\wdpf55_codeigniter\\ci1\\public\\index.php')
+CRITICAL - 2023-12-02 06:17:56 --> Object of class App\Controllers\Products could not be converted to string
+in APPPATH\Controllers\Products.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Products->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\php\\htdocs\\wdpf55_codeigniter\\ci1\\public\\index.php')
+CRITICAL - 2023-12-02 06:17:56 --> Object of class App\Controllers\Products could not be converted to string
+in APPPATH\Controllers\Products.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Products->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\php\\htdocs\\wdpf55_codeigniter\\ci1\\public\\index.php')
+CRITICAL - 2023-12-02 06:17:56 --> Object of class App\Controllers\Products could not be converted to string
+in APPPATH\Controllers\Products.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Products->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\php\\htdocs\\wdpf55_codeigniter\\ci1\\public\\index.php')
+CRITICAL - 2023-12-02 06:17:56 --> Object of class App\Controllers\Products could not be converted to string
+in APPPATH\Controllers\Products.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Products->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\php\\htdocs\\wdpf55_codeigniter\\ci1\\public\\index.php')
+CRITICAL - 2023-12-02 06:17:56 --> Object of class App\Controllers\Products could not be converted to string
+in APPPATH\Controllers\Products.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Products->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\php\\htdocs\\wdpf55_codeigniter\\ci1\\public\\index.php')
+CRITICAL - 2023-12-02 06:17:57 --> Object of class App\Controllers\Products could not be converted to string
+in APPPATH\Controllers\Products.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Products->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\php\\htdocs\\wdpf55_codeigniter\\ci1\\public\\index.php')
+CRITICAL - 2023-12-02 06:17:57 --> Object of class App\Controllers\Products could not be converted to string
+in APPPATH\Controllers\Products.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Products->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\php\\htdocs\\wdpf55_codeigniter\\ci1\\public\\index.php')
+CRITICAL - 2023-12-02 06:17:57 --> Object of class App\Controllers\Products could not be converted to string
+in APPPATH\Controllers\Products.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Products->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\php\\htdocs\\wdpf55_codeigniter\\ci1\\public\\index.php')
+CRITICAL - 2023-12-02 06:17:57 --> Object of class App\Controllers\Products could not be converted to string
+in APPPATH\Controllers\Products.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Products->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\php\\htdocs\\wdpf55_codeigniter\\ci1\\public\\index.php')
+CRITICAL - 2023-12-02 06:18:15 --> Object of class App\Controllers\Products could not be converted to string
+in APPPATH\Controllers\Products.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Products->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\php\\htdocs\\wdpf55_codeigniter\\ci1\\public\\index.php')
+CRITICAL - 2023-12-02 06:18:16 --> Object of class App\Controllers\Products could not be converted to string
+in APPPATH\Controllers\Products.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Products->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\php\\htdocs\\wdpf55_codeigniter\\ci1\\public\\index.php')
+CRITICAL - 2023-12-02 06:18:16 --> Object of class App\Controllers\Products could not be converted to string
+in APPPATH\Controllers\Products.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Products->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\php\\htdocs\\wdpf55_codeigniter\\ci1\\public\\index.php')
+CRITICAL - 2023-12-02 06:18:16 --> Object of class App\Controllers\Products could not be converted to string
+in APPPATH\Controllers\Products.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Products->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\php\\htdocs\\wdpf55_codeigniter\\ci1\\public\\index.php')
+CRITICAL - 2023-12-02 06:18:16 --> Object of class App\Controllers\Products could not be converted to string
+in APPPATH\Controllers\Products.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Products->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\php\\htdocs\\wdpf55_codeigniter\\ci1\\public\\index.php')
+CRITICAL - 2023-12-02 06:18:22 --> Object of class App\Controllers\Products could not be converted to string
+in APPPATH\Controllers\Products.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Products->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\php\\htdocs\\wdpf55_codeigniter\\ci1\\public\\index.php')
+CRITICAL - 2023-12-02 06:21:29 --> Object of class App\Controllers\Products could not be converted to string
+in APPPATH\Controllers\Products.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Products->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\php\\htdocs\\wdpf55_codeigniter\\ci1\\public\\index.php')
+CRITICAL - 2023-12-02 06:21:35 --> Object of class App\Controllers\Products could not be converted to string
+in APPPATH\Controllers\Products.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Products->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\php\\htdocs\\wdpf55_codeigniter\\ci1\\public\\index.php')
+CRITICAL - 2023-12-02 06:21:37 --> Object of class App\Controllers\Products could not be converted to string
+in APPPATH\Controllers\Products.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Products->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\php\\htdocs\\wdpf55_codeigniter\\ci1\\public\\index.php')
+CRITICAL - 2023-12-02 06:24:50 --> Call to undefined method App\Models\ProductModel::finalAll
+in SYSTEMPATH\Model.php on line 873.
+ 1 APPPATH\Controllers\Products.php(17): CodeIgniter\Model->__call('finalAll', [])
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Products->index()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\php\\htdocs\\wdpf55_codeigniter\\ci1\\public\\index.php')
+CRITICAL - 2023-12-02 06:24:51 --> Call to undefined method App\Models\ProductModel::finalAll
+in SYSTEMPATH\Model.php on line 873.
+ 1 APPPATH\Controllers\Products.php(17): CodeIgniter\Model->__call('finalAll', [])
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Products->index()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\php\\htdocs\\wdpf55_codeigniter\\ci1\\public\\index.php')
+CRITICAL - 2023-12-02 06:24:51 --> Call to undefined method App\Models\ProductModel::finalAll
+in SYSTEMPATH\Model.php on line 873.
+ 1 APPPATH\Controllers\Products.php(17): CodeIgniter\Model->__call('finalAll', [])
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Products->index()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\php\\htdocs\\wdpf55_codeigniter\\ci1\\public\\index.php')
+CRITICAL - 2023-12-02 06:24:51 --> Call to undefined method App\Models\ProductModel::finalAll
+in SYSTEMPATH\Model.php on line 873.
+ 1 APPPATH\Controllers\Products.php(17): CodeIgniter\Model->__call('finalAll', [])
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Products->index()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\php\\htdocs\\wdpf55_codeigniter\\ci1\\public\\index.php')
+CRITICAL - 2023-12-02 06:24:52 --> Call to undefined method App\Models\ProductModel::finalAll
+in SYSTEMPATH\Model.php on line 873.
+ 1 APPPATH\Controllers\Products.php(17): CodeIgniter\Model->__call('finalAll', [])
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Products->index()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\php\\htdocs\\wdpf55_codeigniter\\ci1\\public\\index.php')

@@ -1,0 +1,375 @@
+CRITICAL - 2023-12-04 02:36:44 --> Invalid file: "product/create.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('product/create.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('product/create', [], true)
+ 3 APPPATH\Controllers\Products.php(42): view('product/create')
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Products->store()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\php\\htdocs\\wdpf55_codeigniter\\ci1\\public\\index.php')
+CRITICAL - 2023-12-04 02:40:58 --> Invalid file: "product/create.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('product/create.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('product/create', [], true)
+ 3 APPPATH\Controllers\Products.php(42): view('product/create')
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Products->store()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\php\\htdocs\\wdpf55_codeigniter\\ci1\\public\\index.php')
+CRITICAL - 2023-12-04 02:42:30 --> Invalid file: "product/create.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('product/create.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('product/create', [], true)
+ 3 APPPATH\Controllers\Products.php(42): view('product/create')
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Products->store()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\php\\htdocs\\wdpf55_codeigniter\\ci1\\public\\index.php')
+CRITICAL - 2023-12-04 02:43:27 --> Invalid file: "product/create.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('product/create.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('product/create', [], true)
+ 3 APPPATH\Controllers\Products.php(42): view('product/create')
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Products->store()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\php\\htdocs\\wdpf55_codeigniter\\ci1\\public\\index.php')
+CRITICAL - 2023-12-04 02:43:33 --> Invalid file: "product/create.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('product/create.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('product/create', [], true)
+ 3 APPPATH\Controllers\Products.php(42): view('product/create')
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Products->store()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\php\\htdocs\\wdpf55_codeigniter\\ci1\\public\\index.php')
+CRITICAL - 2023-12-04 02:46:33 --> Invalid file: "product/create.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('product/create.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('product/create', [], true)
+ 3 APPPATH\Controllers\Products.php(42): view('product/create')
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Products->store()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\php\\htdocs\\wdpf55_codeigniter\\ci1\\public\\index.php')
+CRITICAL - 2023-12-04 02:48:16 --> Invalid file: "product/create.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('product/create.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('product/create', [], true)
+ 3 APPPATH\Controllers\Products.php(42): view('product/create')
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Products->store()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\php\\htdocs\\wdpf55_codeigniter\\ci1\\public\\index.php')
+CRITICAL - 2023-12-04 02:48:23 --> Invalid file: "product/create.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('product/create.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('product/create', [], true)
+ 3 APPPATH\Controllers\Products.php(42): view('product/create')
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Products->store()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\php\\htdocs\\wdpf55_codeigniter\\ci1\\public\\index.php')
+CRITICAL - 2023-12-04 02:53:40 --> Invalid file: "product/create.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('product/create.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('product/create', [], true)
+ 3 APPPATH\Controllers\Products.php(42): view('product/create')
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Products->store()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\php\\htdocs\\wdpf55_codeigniter\\ci1\\public\\index.php')
+CRITICAL - 2023-12-04 02:55:01 --> Invalid file: "product/create.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('product/create.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('product/create', [], true)
+ 3 APPPATH\Controllers\Products.php(46): view('product/create')
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Products->store()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\php\\htdocs\\wdpf55_codeigniter\\ci1\\public\\index.php')
+CRITICAL - 2023-12-04 02:55:41 --> Invalid file: "product/create.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('product/create.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('product/create', [], true)
+ 3 APPPATH\Controllers\Products.php(46): view('product/create')
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Products->store()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\php\\htdocs\\wdpf55_codeigniter\\ci1\\public\\index.php')
+CRITICAL - 2023-12-04 02:55:44 --> Invalid file: "product/create.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('product/create.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('product/create', [], true)
+ 3 APPPATH\Controllers\Products.php(46): view('product/create')
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Products->store()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\php\\htdocs\\wdpf55_codeigniter\\ci1\\public\\index.php')
+CRITICAL - 2023-12-04 02:56:01 --> Invalid file: "product/create.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('product/create.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('product/create', [], true)
+ 3 APPPATH\Controllers\Products.php(46): view('product/create')
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Products->store()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\php\\htdocs\\wdpf55_codeigniter\\ci1\\public\\index.php')
+CRITICAL - 2023-12-04 02:56:06 --> Invalid file: "product/create.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('product/create.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('product/create', [], true)
+ 3 APPPATH\Controllers\Products.php(46): view('product/create')
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Products->store()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\php\\htdocs\\wdpf55_codeigniter\\ci1\\public\\index.php')
+CRITICAL - 2023-12-04 02:56:26 --> Invalid file: "product/create.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('product/create.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('product/create', [], true)
+ 3 APPPATH\Controllers\Products.php(46): view('product/create')
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Products->store()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\php\\htdocs\\wdpf55_codeigniter\\ci1\\public\\index.php')
+CRITICAL - 2023-12-04 03:18:04 --> Invalid file: "product/create.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('product/create.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('product/create', [], true)
+ 3 APPPATH\Controllers\Products.php(46): view('product/create')
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Products->store()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\php\\htdocs\\wdpf55_codeigniter\\ci1\\public\\index.php')
+CRITICAL - 2023-12-04 03:27:22 --> Invalid file: "product/create.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('product/create.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('product/create', [], true)
+ 3 APPPATH\Controllers\Products.php(46): view('product/create')
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Products->store()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\php\\htdocs\\wdpf55_codeigniter\\ci1\\public\\index.php')
+CRITICAL - 2023-12-04 03:29:42 --> Invalid file: "product/create.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('product/create.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('product/create', [], true)
+ 3 APPPATH\Controllers\Products.php(46): view('product/create')
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Products->store()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\php\\htdocs\\wdpf55_codeigniter\\ci1\\public\\index.php')
+CRITICAL - 2023-12-04 03:30:36 --> Invalid file: "product/create.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('product/create.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('product/create', [], true)
+ 3 APPPATH\Controllers\Products.php(46): view('product/create')
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Products->store()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\php\\htdocs\\wdpf55_codeigniter\\ci1\\public\\index.php')
+CRITICAL - 2023-12-04 03:32:36 --> Invalid file: "product/create.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('product/create.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('product/create', [], true)
+ 3 APPPATH\Controllers\Products.php(46): view('product/create')
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Products->store()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\php\\htdocs\\wdpf55_codeigniter\\ci1\\public\\index.php')
+CRITICAL - 2023-12-04 03:33:43 --> Invalid file: "product/create.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('product/create.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('product/create', [], true)
+ 3 APPPATH\Controllers\Products.php(46): view('product/create')
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Products->store()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\php\\htdocs\\wdpf55_codeigniter\\ci1\\public\\index.php')
+CRITICAL - 2023-12-04 03:34:23 --> Invalid file: "/product/create.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('/product/create.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('/product/create', [], true)
+ 3 APPPATH\Controllers\Products.php(46): view('/product/create')
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Products->store()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\php\\htdocs\\wdpf55_codeigniter\\ci1\\public\\index.php')
+CRITICAL - 2023-12-04 03:34:26 --> Invalid file: "/product/create.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('/product/create.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('/product/create', [], true)
+ 3 APPPATH\Controllers\Products.php(46): view('/product/create')
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Products->store()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\php\\htdocs\\wdpf55_codeigniter\\ci1\\public\\index.php')
+CRITICAL - 2023-12-04 03:34:34 --> Invalid file: "/product/create.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('/product/create.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('/product/create', [], true)
+ 3 APPPATH\Controllers\Products.php(46): view('/product/create')
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Products->store()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\php\\htdocs\\wdpf55_codeigniter\\ci1\\public\\index.php')
+CRITICAL - 2023-12-04 03:37:34 --> Invalid file: "/product/create.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('/product/create.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('/product/create', [], true)
+ 3 APPPATH\Controllers\Products.php(46): view('/product/create')
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Products->store()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\php\\htdocs\\wdpf55_codeigniter\\ci1\\public\\index.php')
+CRITICAL - 2023-12-04 04:31:15 --> Return value of CodeIgniter\BaseModel::transformDataToArray() must be of the type array, string returned
+in SYSTEMPATH\BaseModel.php on line 1752.
+ 1 SYSTEMPATH\BaseModel.php(748): CodeIgniter\BaseModel->transformDataToArray('1', 'insert')
+ 2 SYSTEMPATH\Model.php(715): CodeIgniter\BaseModel->insert('1', true)
+ 3 APPPATH\Controllers\Products.php(121): CodeIgniter\Model->insert('1')
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Products->delete('1')
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\php\\htdocs\\wdpf55_codeigniter\\ci1\\public\\index.php')
+CRITICAL - 2023-12-04 04:31:28 --> Return value of CodeIgniter\BaseModel::transformDataToArray() must be of the type array, string returned
+in SYSTEMPATH\BaseModel.php on line 1752.
+ 1 SYSTEMPATH\BaseModel.php(748): CodeIgniter\BaseModel->transformDataToArray('1', 'insert')
+ 2 SYSTEMPATH\Model.php(715): CodeIgniter\BaseModel->insert('1', true)
+ 3 APPPATH\Controllers\Products.php(121): CodeIgniter\Model->insert('1')
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Products->delete('1')
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\php\\htdocs\\wdpf55_codeigniter\\ci1\\public\\index.php')
+CRITICAL - 2023-12-04 04:52:15 --> Undefined variable: title
+in APPPATH\Views\products\create.php on line 12.
+ 1 APPPATH\Views\products\create.php(12): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: title', 'D:\\php\\htdocs\\wdpf55_codeigniter\\ci1\\app\\Views\\products\\create.php', 12, [])
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\php\\htdocs\\wdpf55_codeigniter\\ci1\\app\\Views\\products\\create.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('products/create', [], true)
+ 5 APPPATH\Controllers\Products.php(85): view('products/create')
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Products->create()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\php\\htdocs\\wdpf55_codeigniter\\ci1\\public\\index.php')
+INFO - 2023-12-04 04:52:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-04 04:52:57 --> Undefined variable: title
+in APPPATH\Views\products\create.php on line 12.
+ 1 APPPATH\Views\products\create.php(12): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: title', 'D:\\php\\htdocs\\wdpf55_codeigniter\\ci1\\app\\Views\\products\\create.php', 12, [])
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\php\\htdocs\\wdpf55_codeigniter\\ci1\\app\\Views\\products\\create.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('products/create', [], true)
+ 5 APPPATH\Controllers\Products.php(85): view('products/create')
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Products->create()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\php\\htdocs\\wdpf55_codeigniter\\ci1\\public\\index.php')
+INFO - 2023-12-04 05:00:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-04 05:05:03 --> Undefined variable: title
+in APPPATH\Views\products\create.php on line 12.
+ 1 APPPATH\Views\products\create.php(12): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: title', 'D:\\php\\htdocs\\wdpf55_codeigniter\\ci1\\app\\Views\\products\\create.php', 12, [])
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\php\\htdocs\\wdpf55_codeigniter\\ci1\\app\\Views\\products\\create.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('products/create', [], true)
+ 5 APPPATH\Controllers\Products.php(85): view('products/create')
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Products->create()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\php\\htdocs\\wdpf55_codeigniter\\ci1\\public\\index.php')
+INFO - 2023-12-04 05:06:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-04 07:26:04 --> Invalid file: "products/edit.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('products/edit.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('products/edit', [], true)
+ 3 APPPATH\Controllers\Products.php(122): view('products/edit', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Products->edit('40')
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\php\\htdocs\\wdpf55_codeigniter\\ci1\\public\\index.php')
+CRITICAL - 2023-12-04 07:26:10 --> Invalid file: "products/edit.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('products/edit.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('products/edit', [], true)
+ 3 APPPATH\Controllers\Products.php(122): view('products/edit', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Products->edit('40')
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\php\\htdocs\\wdpf55_codeigniter\\ci1\\public\\index.php')
+INFO - 2023-12-04 10:28:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-04 10:28:58 --> Undefined variable: title
+in APPPATH\Views\products\edit.php on line 12.
+ 1 APPPATH\Views\products\edit.php(12): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: title', 'D:\\php\\htdocs\\wdpf55_codeigniter\\ci1\\app\\Views\\products\\edit.php', 12, [...])
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\php\\htdocs\\wdpf55_codeigniter\\ci1\\app\\Views\\products\\edit.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('products/edit', [], true)
+ 5 APPPATH\Controllers\Products.php(122): view('products/edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Products->edit('40')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\php\\htdocs\\wdpf55_codeigniter\\ci1\\public\\index.php')
+INFO - 2023-12-04 10:29:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-04 10:29:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-04 10:30:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-04 10:31:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-04 10:31:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-04 10:31:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-04 10:32:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-04 10:32:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-04 10:32:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-04 10:32:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-04 10:32:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-04 10:32:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-04 10:32:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-04 10:32:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-04 10:33:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-04 10:33:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-04 10:38:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-04 10:38:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-04 10:38:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-04 10:38:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-04 10:38:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-04 10:41:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-04 10:42:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-04 10:43:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-04 10:43:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-04 10:44:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-04 10:44:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-04 10:49:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-04 10:49:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-04 11:03:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-04 11:03:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-04 11:03:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-04 11:03:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
