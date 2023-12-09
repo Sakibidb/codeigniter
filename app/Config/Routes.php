@@ -20,7 +20,17 @@ $routes->get('register', 'SignupController::index');
 $routes->match(['get', 'post'], '/register/store', 'SignupController::store');
 $routes->get('login', 'Signin::index');
 $routes->post('login', 'Signin::login');
-$routes->get('login', 'Signin::logout');
+$routes->get('logout', 'Signin::logout');
+
+$routes->get('/category', 'CategoryController::index'); //list
+$routes->get('category/create', 'CategoryController::creat'); //entry form
+$routes->post('category/store', 'CategoryController::store'); // save
+$routes->get('category/edit/(:num)', 'CategoryController::edit/$1'); // edit
+$routes->post('category/update/(:num)', 'CategoryController::delete/$1'); // update
+$routes->get('category/delete/(:num)', 'CategoryController::update/$1'); // delete
+
+
+
 
 
 

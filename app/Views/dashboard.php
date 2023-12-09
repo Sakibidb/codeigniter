@@ -43,6 +43,8 @@
 
                 <!-- Begin Page Content -->
                 <div class="container-fluid">
+                    <!-- <h1>my session data</h1> -->
+                    <?php //print_r($_SESSION);?>
 
                     <!-- Page Heading -->
                     <div class="d-sm-flex align-items-center justify-content-between mb-4">
@@ -404,7 +406,7 @@
                 <div class="modal-body">Select "Logout" below if you are ready to end your current session.</div>
                 <div class="modal-footer">
                     <button class="btn btn-secondary" type="button" data-dismiss="modal">Cancel</button>
-                    <a class="btn btn-primary" href="<?= site_url('/login')?>">Logout</a>
+                    <a class="btn btn-primary" href="<?= site_url('/logout')?>">Logout</a>
                 </div>
             </div>
         </div>

@@ -9,27 +9,37 @@ class Products1Migration extends Migration
     public function up()
     {
         $this->forge->addField(array(
-            'blog_id' => [
+            'id' => [
                 'type'           => 'INT',
                 'constraint'     => 5,
                 'unsigned'       => true,
                 'auto_increment' => true,
             ],
-            'blog_title' => [
-                'type'       => 'VARCHAR',
-                'constraint' => '100',
+            'category_id' => [
+                'type'           => 'INT',
+                'constraint'     => 5,
+                'unsigned'       => true,
             ],
-            'blog_description' => [
-                'type' => 'TEXT',
+            'product' => [
+                'type'       => 'VARCHAR',
+                'constraint' => '150',
+            ],
+            'price' => [
+                'type' => 'INT',
+                'null' => true,
+            ],
+            'model' => [
+                'type' => 'VARCHAR',
                 'null' => true,
             ],
         ));
-        $this->forge->addKey('blog_id', true);
-        $this->forge->createTable('blog'); 
+        $this->forge->addKey('id', true);
+        $this->forge->addForeignKey('category_id', 'category', 'id', 'CASCADE', 'CASCADE');
+        $this->forge->createTable('products'); 
     }
 
     public function down()
     {
-        //
+        $this->forge->createTable('products')
     }
 }

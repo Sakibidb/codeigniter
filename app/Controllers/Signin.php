@@ -65,7 +65,7 @@ class Signin extends BaseController
                 ];
                 $session->set($user_data);
                 return redirect()->to('/');
-                // echo "<br> Password Varified";
+                //echo "<br> Password Varified";
             
             }else{
                 $session->setFlashdata('message', 'Password is incorrect.');

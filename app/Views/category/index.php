@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title><?php //echo($title); ?></title>
+    <title><?php //print_r($title); ?></title>
 
     <!-- Custom fonts for this template -->
     <link href="<?php echo site_url('../vendor/fontawesome-free/css/all.min.css')?>" rel="stylesheet" type="text/css">
@@ -40,61 +40,68 @@
 
                 <!-- Begin Page Content -->
                 <div class="container-fluid">
+                    <?php //print_r($items);
+                    ?>
 
-                    <div class="container">
+                    <!-- Page Heading -->
+                    <h1 class="h3 mb-2 text-gray-800">Tables</h1>
+                    <p class="mb-4">DataTables is a third party plugin that is used to generate the demo table below.
+                        For more information about DataTables, please visit the <a target="_blank" href="https://datatables.net">official DataTables documentation</a>.</p>
 
-                        <div class="card">
-                            <div class="card-body">
+                    <!-- DataTales Example -->
+                    <div class="card shadow mb-4">
 
-                                <?php if (session()->getFlashdata('message') !== NULL) : ?>
-                                    <div class="alert alert-success alert-dismissible fade show" role="alert">
-                                        <?php echo session()->getFlashdata('message'); ?>
-                                        <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-                                    </div>
-                                <?php endif; ?>
-                                
-                                <h5 class="card-title">Add Product Form</h5>
-                                <?= validation_list_errors()?>
-                                <!-- No Labels Form -->
-                                <form class="row g-3" action="/products/store" method="post" enctype="multipart/form-data">
-                                    
-                                    <div class="col-md-12">
-                                        <input type="text" class="form-control" placeholder="Product Name" name="pname" value="<?=set_value('pname')?>">
-                                    </div>
-                                    <div class="col-md-6">
-                                        <select id="inputState" class="form-select" name="cat" value="<?//=set_value('cat')?>" >
-                                            <option selected>Category</option>
-                                            <option value="<?=set_value('Car')?>">Car</option>
-                                            <option value="<?=set_value('Bus')?>">Bus</option>
-                                            <option value="<?=set_value('Truck')?>">Truck</option>
-                                        </select>
-                                    </div>
-                                    <div class="col-md-6">
-                                        <input type="text" class="form-control" placeholder="Model" name="model" value="<?=set_value('model')?>">
-                                    </div>
-                                    <div class="col-md-6">
-                                        <input type="text" class="form-control" placeholder="Price" name="price" value="<?=set_value('price')?>">
-                                    </div>
-                                    <div class="col-md-6">
-                                        <input type="text" class="form-control" placeholder="SKU" name="sku" value="<?=set_value('sku')?>">
-                                    </div>
+                        <?php if (session()->getFlashdata('message') !== NULL) : ?>
+                            <div class="alert alert-danger alert-dismissible fade show" role="alert">
+                                <?php echo session()->getFlashdata('message'); ?>
+                                <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                            </div>
+                        <?php endif; ?>
+                        <div class="card-header py-3">
+                            <h6 class="m-0 font-weight-bold text-primary">DataTables Example</h6>
+                        </div>
+                        <div class="card-body">
+                            <div class="table-responsive">
+                                <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
 
-                                    <div class="col-md-12">
-                                        <input type="file" class="form-control" placeholder="add a photo" name="photo" value="<?=set_value('photo')?>">
-                                    </div>
+                                    <thead>
+                                        <tr>
+                                            <th>ID</th>
+                                            <th>Category</th>
+                                            <th>Action</th>
+                                            <th>Action</th>
+                                        </tr>
+                                    </thead>
+                                    <tfoot>
+                                        <tr>
+                                            <th>ID</th>
+                                            <th>Category</th>
+                                            <th>Action</th>
+                                            <th>Action</th>
+                                        </tr>
+                                    </tfoot>
+                                    <tbody>
 
-                                    <div class="text-center">
-                                        <button type="submit" class="btn btn-primary">Add</button>
-                                        <button type="reset" class="btn btn-secondary">Reset</button>
-                                    </div>
-                                </form><!-- End No Labels Form -->
+                                        <?php foreach ($items as $item) : ?>
 
+                                            <tr>
+                                                <td><?php echo $item['id']; ?></td>
+                                                <td><?php echo $item['category']; ?></td>
+                                                
+                                                <td>
+                                                    <a href="<?php echo base_url('/category/delete/' . $item['id']);?>" class="btn btn-danger" onclick="return confirm('Are You Sure to Delete?')">Delete</a>
+                                                </td>
+                                                <td>
+                                                    <a href="<?php echo base_url('/category/edit/' . $item['id']) ?>" class="btn btn-success">Edit</a>
+                                                </td>
+                                            </tr>
+                                        <?php endforeach ?>
+
+                                    </tbody>
+                                </table>
                             </div>
                         </div>
-
                     </div>
-
-
 
                 </div>
                 <!-- /.container-fluid -->
