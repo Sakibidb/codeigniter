@@ -6,6 +6,8 @@ use CodeIgniter\Router\RouteCollection;
  * @var RouteCollection $routes
  */
 $routes->get('/', 'AdminHome::index',['filter'=>'authGuard'] );
+
+
 $routes->get('/about', 'About::index');
 $routes->get('/contact', 'Contact::index');
 $routes->get('/products', 'Products::index');
@@ -29,10 +31,8 @@ $routes->get('category/edit/(:num)', 'CategoryController::edit/$1'); // edit
 $routes->post('category/update/(:num)', 'CategoryController::delete/$1'); // update
 $routes->get('category/delete/(:num)', 'CategoryController::update/$1'); // delete
 
-
-
-
-
-
+//Frontend
+$routes->get('productsall', 'frontend\ProductController::index');
+$routes->post('productsall/(:num)', 'frontend\ProductController::show/$1');
 
 

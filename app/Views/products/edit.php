@@ -51,7 +51,7 @@
                                 <h5 class="card-title">Edit Product Form</h5>
                                 
                                 <!-- No Labels Form -->
-                                <form class="row g-3" action="<?= site_url('products/update/'. $product_id );?>" method="post">
+                                <form class="row g-3" action="<?= site_url('products/update/'. $id );?>" method="post">
                                 <?= validation_list_errors()?>
                                 <!-- <input type="hidden" name="_method" value="POST">   -->
                                     <div class="col-md-12">
@@ -60,9 +60,9 @@
                                     <div class="col-md-6">
                                         <select id="inputState" class="form-select" name="cat">
                                             <option selected>Category</option>
-                                            <option <?=($category=='car')? "selected":""?>>Car</option>
-                                            <option <?=($category=='car')? "selected":""?>>Bus</option>
-                                            <option <?=($category=='car')? "selected":""?>>Truck</option>
+                                            <option <?=($category_id=='car')? "selected":""?>>Car</option>
+                                            <option <?=($category_id=='car')? "selected":""?>>Bus</option>
+                                            <option <?=($category_id=='car')? "selected":""?>>Truck</option>
                                         </select>
                                     </div>
                                     <div class="col-md-6">

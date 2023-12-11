@@ -93,17 +93,17 @@
                                         <?php foreach ($items as $item) : ?>
 
                                             <tr>
-                                                <td><?php echo $item['product_id']; ?></td>
+                                                <td><?php echo $item['id']; ?></td>
                                                 <td><?php echo $item['product']; ?></td>
-                                                <td><?php echo $item['category']; ?></td>
+                                                <td><?php echo $item['category_id']; ?></td>
                                                 <td><?php echo $item['price']; ?></td>
                                                 <td><?php echo $item['sku']; ?></td>
                                                 <td><?php echo $item['model']; ?></td>
                                                 <td>
-                                                    <a href="<?php echo base_url('/products/delete/' . $item['product_id']);?>" class="btn btn-danger" onclick="return confirm('Are You Sure to Delete?')">Delete</a>
+                                                    <a href="<?php echo base_url('/products/delete/' . $item['id']);?>" class="btn btn-danger" onclick="return confirm('Are You Sure to Delete?')">Delete</a>
                                                 </td>
                                                 <td>
-                                                    <a href="<?php echo base_url('/products/edit/' . $item['product_id']) ?>" class="btn btn-success">Edit</a>
+                                                    <a href="<?php echo base_url('/products/edit/' . $item['id']) ?>" class="btn btn-success">Edit</a>
                                                 </td>
                                             </tr>
                                         <?php endforeach ?>
